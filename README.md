@@ -41,7 +41,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="justify">
 <p>
 
-I am a computer engineering student with a specialization in artificial intelligence at the university, and I have a keen interest in learning and understanding innovative computer algorithms. This small project was created just for one of my university courses in collaboration with my classmate, we hope it will be useful.
+I am a computer engineering student who is interested in the computer world because I love solving problems and there are many new and exciting problems in this world. This small project was created just for one of my university courses in collaboration with my classmate, we hope it will be useful.
 </div>
 </p>
 
