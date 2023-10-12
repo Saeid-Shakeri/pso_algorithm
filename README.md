@@ -37,7 +37,7 @@ python src/pso_algorithm.py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## About ME 🙋‍♂️
+## About Me 🙋‍♂️
 <div align="justify">
 <p>
 
@@ -45,6 +45,6 @@ I am a computer engineering student who is interested in the computer world beca
 </div>
 </p>
 
-- You can contact me at: soroush0002souzandeh@gmail.com
+- You can contact me at: sshakeri156@gmail.com
 
-- You can contact my classmate at: sshakeri156@gmail.com
+- You can contact my classmate at: soroush0002souzandeh@gmail.com
