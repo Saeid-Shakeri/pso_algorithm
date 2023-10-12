@@ -1,4 +1,4 @@
-a## Particle Swarm Optimization 🚀
+## Particle Swarm Optimization 🚀
 <div align="justify">
 <p>
 The Particle Swarm Optimization (PSO) algorithm is one of the well-known and practical metaheuristic algorithms. In metaheuristic terminology, an algorithm is considered to be one that uses a specific pattern of utilizing random events to optimize a value. In other words, these algorithms are often an attempt to model an optimization process in the real world.
@@ -37,12 +37,14 @@ python src/pso_algorithm.py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## About Me 🙋‍♂️
+## About ME 🙋‍♂️
 <div align="justify">
 <p>
 
-I am a computer engineering student with a specialization in artificial intelligence at the university, and I have a keen interest in learning and understanding innovative computer algorithms. This small project was created solely for one of my university courses, and I hope it proves to be useful.
+I am a computer engineering student with a specialization in artificial intelligence at the university, and I have a keen interest in learning and understanding innovative computer algorithms. This small project was created just for one of my university courses in collaboration with my classmate, we hope it will be useful.
 </div>
 </p>
 
-You can contact me at: soroush0002souzandeh@gmail.com
+- You can contact me at: soroush0002souzandeh@gmail.com
+
+- You can contact my classmate at: sshakeri156@gmail.com
